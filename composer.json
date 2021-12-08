@@ -1,20 +1,12 @@
 {
-    "name": "lusitanian/oauth",
+    "name": "carlos-mg89/oauth",
     "description": "PHP 7.2 oAuth 1/2 Library",
     "keywords": ["oauth", "authentication", "authorization", "security"],
     "license": "MIT",
     "authors": [
         {
-            "name": "David Desberg",
-            "email": "david@daviddesberg.com"
-        },
-        {
-            "name": "Pieter Hordijk",
-            "email": "info@pieterhordijk.com"
-        },
-        {
-            "name": "Elliot Chance",
-            "email": "elliotchance@gmail.com"
+            "name": "Carlos Martínez Gadea",
+            "email": "carlosmartinezgadea@gmail.com"
         }
     ],
     "scripts" : {
