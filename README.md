@@ -1,8 +1,7 @@
 PHPoAuthLib
 ===========
-**NOTE: I'm looking for someone who could help to maintain this package alongside me, just because I don't have a ton of time to devote to it. However, I'm still going to keep trying to pay attention to PRs, etc.**
 
-PHPoAuthLib provides oAuth support in PHP 7.2+ and is very easy to integrate with any project which requires an oAuth client.
+PHPoAuthLib provides oAuth support in PHP 7.2+ and 8.0+. It's very easy to integrate with any project which requires an oAuth client.
 
 [![Build Status](https://travis-ci.org/Lusitanian/PHPoAuthLib.png?branch=master)](https://travis-ci.org/Lusitanian/PHPoAuthLib)
 [![Code Coverage](https://scrutinizer-ci.com/g/Lusitanian/PHPoAuthLib/badges/coverage.png?s=a0a15bebfda49e79f9ce289b00c6dfebd18fc98e)](https://scrutinizer-ci.com/g/Lusitanian/PHPoAuthLib/)
@@ -12,7 +11,7 @@ PHPoAuthLib provides oAuth support in PHP 7.2+ and is very easy to integrate wit
 
 Installation
 ------------
-This library can be found on [Packagist](https://packagist.org/packages/lusitanian/oauth).
+This library can be found on [Packagist](https://packagist.org/packages/carlos-mg89/oauth).
 The recommended way to install this is through [composer](http://getcomposer.org).
 
 
