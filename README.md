@@ -17,7 +17,7 @@ The recommended way to install this is through [composer](http://getcomposer.org
 
 
 ```bash
-    composer require lusitanian/oauth
+    composer require carlos-mg89/oauth
 ```
 
 Features
