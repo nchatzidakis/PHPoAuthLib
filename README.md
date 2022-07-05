@@ -3,6 +3,7 @@ PHPoAuthLib
 
 PHPoAuthLib provides oAuth support in PHP 7.2+ and 8.0+. It's very easy to integrate with any project which requires an oAuth client.
 
+[![Build Status](https://scrutinizer-ci.com/g/carlos-mg89/PHPoAuthLib/badges/build.png?b=master)](https://scrutinizer-ci.com/g/carlos-mg89/PHPoAuthLib/build-status/master)
 [![Code Coverage](https://scrutinizer-ci.com/g/carlos-mg89/PHPoAuthLib/badges/coverage.png?s=master)](https://scrutinizer-ci.com/g/carlos-mg89/PHPoAuthLib/)
 [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/carlos-mg89/PHPoAuthLib/badges/quality-score.png?s=master)](https://scrutinizer-ci.com/g/carlos-mg89/PHPoAuthLib/)
 [![Latest Stable Version](https://poser.pugx.org/carlos-mg89/oauth/v/stable.png)](https://packagist.org/packages/carlos-mg89/oauth)
